@@ -43,4 +43,3 @@ The model demonstrates practical understanding of **machine design, part modelin
 
 ---
 
-## 📁 Repository Structure
